@@ -55,14 +55,14 @@ Qt Creator에서 BASIC 인터프리터 실행 파일 경로(basic_interpreter.ex
 
 5. KoBASIC 실행 및 코드 작성
 
-5-1. KoBASIC GUI 실행
-Qt Creator에서 KoBASIC 프로젝트를 빌드하고 실행한다.
-KoBASIC 코드 작성 창에 한글로 BASIC 코드를 입력한다. (예: 10 변수 = 10)
+  5-1. KoBASIC GUI 실행
+  Qt Creator에서 KoBASIC 프로젝트를 빌드하고 실행한다.
+  KoBASIC 코드 작성 창에 한글로 BASIC 코드를 입력한다. (예: 10 변수 = 10)
+  
+  5-2. Python 코드로 변환 및 실행
+  실행 버튼을 클릭하여 작성한 KoBASIC 코드를 Python 코드로 변환하고 실행한다.
+  실행 결과는 결과 창에 표시된다.
 
-5-2. Python 코드로 변환 및 실행
-실행 버튼을 클릭하여 작성한 KoBASIC 코드를 Python 코드로 변환하고 실행한다.
-실행 결과는 결과 창에 표시된다.
-
-5. 결과 확인 및 디버깅
+6. 결과 확인 및 디버깅
 실행 결과 및 오류 메시지는 GUI 내 결과 출력 창에 표시된다.
 필요에 따라 코드 수정 후 재실행하여 디버깅할 수 있다.
