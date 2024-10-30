@@ -26,7 +26,7 @@ Python 변환 웹 인터페이스 구현: KoBASIC을 Python 코드로 변환하�
 
 ### 3. 시스템 구성도
 
-![image](https://github.com/user-attachments/assets/6e18bf92-482b-4bcf-a0db-eeadbfd613e2)
+![image](https://github.com/user-attachments/assets/e67c515e-be8b-454a-951b-2b002749feba)
 
 ### 4. 소개 및 시연 영상
 
