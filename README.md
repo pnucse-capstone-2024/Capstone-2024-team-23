@@ -34,7 +34,11 @@ https://youtu.be/igOuW7jl1Kw?si=YmQDmJ-Ze8NEg2u4
 
 ### 5. 설치 및 사용법
 
-KoBASIC을 사용하기 위해서는 Qt 설치와 BASIC 인터프리터 실행 파일이 필요하다. 
+KoBASIC을 사용하기 위해서는 웹 혹은 Qt를 사용할 수 있다.
+웹 주소는 다음과 같다. https://kimjeonghan0625.github.io/kobasic/
+
+QT 사용은 아래 절차를 따르면 된다. 
+Qt 설치와 BASIC 인터프리터 실행 파일이 필요하다. 
 아래에 KoBASIC 설치 및 설정 과정을 단계별로 안내한다.
 
 1. 필수 소프트웨어 설치
